@@ -1,0 +1,15 @@
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.BLL\bin\Debug\net8.0\Invoice_Generator.BLL.deps.json
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.BLL\bin\Debug\net8.0\Invoice_Generator.BLL.dll
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.BLL\bin\Debug\net8.0\Invoice_Generator.BLL.pdb
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.BLL\obj\Debug\net8.0\Invoice_Generator.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.BLL\obj\Debug\net8.0\Invoice_Generator.BLL.AssemblyInfoInputs.cache
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.BLL\obj\Debug\net8.0\Invoice_Generator.BLL.AssemblyInfo.vb
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.BLL\obj\Debug\net8.0\Invoice_Generator.BLL.vbproj.CoreCompileInputs.cache
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.BLL\obj\Debug\net8.0\Invoice_Generator.BLL.dll
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.BLL\obj\Debug\net8.0\refint\Invoice_Generator.BLL.dll
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.BLL\obj\Debug\net8.0\Invoice_Generator.BLL.pdb
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.BLL\obj\Debug\net8.0\ref\Invoice_Generator.BLL.dll
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.BLL\bin\Debug\net8.0\Invoice_Generator.DAL.dll
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.BLL\bin\Debug\net8.0\Invoice_Generator.DAL.pdb
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.BLL\obj\Debug\net8.0\Invoice_Generator.BLL.vbproj.AssemblyReference.cache
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.BLL\obj\Debug\net8.0\Invoice_.AB8BB082.Up2Date

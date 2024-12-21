@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>Invoice_Generator.BLL</RootNamespace>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Invoice_Generator.DAL\Invoice_Generator.DAL.vbproj" />
+  </ItemGroup>
+
+</Project>

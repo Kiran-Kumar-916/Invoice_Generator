@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|c:\\kiran kumar\\code\\backups\\this is final project with 3-tier architecture\\kiran kumar m - project - net 8.0\\invoice_generator\\invoice_generator.uil\\forminvoice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|solutionrelative:invoice_generator.uil\\forminvoice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|c:\\kiran kumar\\code\\backups\\this is final project with 3-tier architecture\\kiran kumar m - project - net 8.0\\invoice_generator\\invoice_generator.uil\\formpayment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|solutionrelative:invoice_generator.uil\\formpayment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|c:\\kiran kumar\\code\\backups\\this is final project with 3-tier architecture\\kiran kumar m - project - net 8.0\\invoice_generator\\invoice_generator.uil\\formcart.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|solutionrelative:invoice_generator.uil\\formcart.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|c:\\kiran kumar\\code\\backups\\this is final project with 3-tier architecture\\kiran kumar m - project - net 8.0\\invoice_generator\\invoice_generator.uil\\formproducts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|solutionrelative:invoice_generator.uil\\formproducts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|c:\\kiran kumar\\code\\backups\\this is final project with 3-tier architecture\\kiran kumar m - project - net 8.0\\invoice_generator\\invoice_generator.uil\\formcategories.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|solutionrelative:invoice_generator.uil\\formcategories.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|c:\\kiran kumar\\code\\backups\\this is final project with 3-tier architecture\\kiran kumar m - project - net 8.0\\invoice_generator\\invoice_generator.uil\\formproducts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|solutionrelative:invoice_generator.uil\\formproducts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|c:\\kiran kumar\\code\\backups\\this is final project with 3-tier architecture\\kiran kumar m - project - net 8.0\\invoice_generator\\invoice_generator.uil\\formcustomers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|solutionrelative:invoice_generator.uil\\formcustomers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|c:\\kiran kumar\\code\\backups\\this is final project with 3-tier architecture\\kiran kumar m - project - net 8.0\\invoice_generator\\invoice_generator.uil\\formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|solutionrelative:invoice_generator.uil\\formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|c:\\kiran kumar\\code\\backups\\this is final project with 3-tier architecture\\kiran kumar m - project - net 8.0\\invoice_generator\\invoice_generator.uil\\formcategories.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|solutionrelative:invoice_generator.uil\\formcategories.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|c:\\kiran kumar\\code\\backups\\this is final project with 3-tier architecture\\kiran kumar m - project - net 8.0\\invoice_generator\\invoice_generator.uil\\formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|solutionrelative:invoice_generator.uil\\formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|c:\\kiran kumar\\code\\backups\\this is final project with 3-tier architecture\\kiran kumar m - project - net 8.0\\invoice_generator\\invoice_generator.uil\\forminvoice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|solutionrelative:invoice_generator.uil\\forminvoice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|c:\\kiran kumar\\code\\backups\\this is final project with 3-tier architecture\\kiran kumar m - project - net 8.0\\invoice_generator\\invoice_generator.uil\\formpayment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|solutionrelative:invoice_generator.uil\\formpayment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|c:\\kiran kumar\\code\\backups\\this is final project with 3-tier architecture\\kiran kumar m - project - net 8.0\\invoice_generator\\invoice_generator.uil\\formcustomers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CF609D85-95D8-4AEE-8A8B-176370E3267A}|Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj|solutionrelative:invoice_generator.uil\\formcustomers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPayment.vb [Design]",
+              "DocumentMoniker": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormPayment.vb",
+              "RelativeDocumentMoniker": "Invoice_Generator.UIL\\FormPayment.vb",
+              "ToolTip": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormPayment.vb [Design]",
+              "RelativeToolTip": "Invoice_Generator.UIL\\FormPayment.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-21T06:16:01.817Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCart.vb [Design]",
+              "DocumentMoniker": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormCart.vb",
+              "RelativeDocumentMoniker": "Invoice_Generator.UIL\\FormCart.vb",
+              "ToolTip": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormCart.vb [Design]",
+              "RelativeToolTip": "Invoice_Generator.UIL\\FormCart.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-21T06:16:09.567Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormProducts.vb [Design]",
+              "DocumentMoniker": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormProducts.vb",
+              "RelativeDocumentMoniker": "Invoice_Generator.UIL\\FormProducts.vb",
+              "ToolTip": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormProducts.vb [Design]",
+              "RelativeToolTip": "Invoice_Generator.UIL\\FormProducts.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-21T06:03:52.871Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormInvoice.vb [Design]",
+              "DocumentMoniker": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormInvoice.vb",
+              "RelativeDocumentMoniker": "Invoice_Generator.UIL\\FormInvoice.vb",
+              "ToolTip": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormInvoice.vb [Design]",
+              "RelativeToolTip": "Invoice_Generator.UIL\\FormInvoice.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-21T06:23:36.981Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormProducts.vb",
+              "DocumentMoniker": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormProducts.vb",
+              "RelativeDocumentMoniker": "Invoice_Generator.UIL\\FormProducts.vb",
+              "ToolTip": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormProducts.vb",
+              "RelativeToolTip": "Invoice_Generator.UIL\\FormProducts.vb",
+              "ViewState": "AgIAADUAAAAAAAAAAAAEwD4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T15:15:25.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormCategories.vb [Design]",
+              "DocumentMoniker": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormCategories.vb",
+              "RelativeDocumentMoniker": "Invoice_Generator.UIL\\FormCategories.vb",
+              "ToolTip": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormCategories.vb [Design]",
+              "RelativeToolTip": "Invoice_Generator.UIL\\FormCategories.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-21T05:28:12.901Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormHome.vb [Design]",
+              "DocumentMoniker": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormHome.vb",
+              "RelativeDocumentMoniker": "Invoice_Generator.UIL\\FormHome.vb",
+              "ToolTip": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormHome.vb [Design]",
+              "RelativeToolTip": "Invoice_Generator.UIL\\FormHome.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-21T05:02:54.226Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormCustomers.vb [Design]",
+              "DocumentMoniker": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormCustomers.vb",
+              "RelativeDocumentMoniker": "Invoice_Generator.UIL\\FormCustomers.vb",
+              "ToolTip": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormCustomers.vb [Design]",
+              "RelativeToolTip": "Invoice_Generator.UIL\\FormCustomers.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-21T05:54:46.222Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormPayment.vb",
+              "DocumentMoniker": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormPayment.vb",
+              "RelativeDocumentMoniker": "Invoice_Generator.UIL\\FormPayment.vb",
+              "ToolTip": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormPayment.vb",
+              "RelativeToolTip": "Invoice_Generator.UIL\\FormPayment.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T15:16:03.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormInvoice.vb",
+              "DocumentMoniker": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormInvoice.vb",
+              "RelativeDocumentMoniker": "Invoice_Generator.UIL\\FormInvoice.vb",
+              "ToolTip": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormInvoice.vb",
+              "RelativeToolTip": "Invoice_Generator.UIL\\FormInvoice.vb",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T15:16:56.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormCategories.vb",
+              "DocumentMoniker": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormCategories.vb",
+              "RelativeDocumentMoniker": "Invoice_Generator.UIL\\FormCategories.vb",
+              "ToolTip": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormCategories.vb",
+              "RelativeToolTip": "Invoice_Generator.UIL\\FormCategories.vb",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-21T04:58:22.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormHome.vb",
+              "DocumentMoniker": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormHome.vb",
+              "RelativeDocumentMoniker": "Invoice_Generator.UIL\\FormHome.vb",
+              "ToolTip": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormHome.vb",
+              "RelativeToolTip": "Invoice_Generator.UIL\\FormHome.vb",
+              "ViewState": "AgIAABAAAAAAAAAAAAAhwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-21T04:54:57.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormCustomers.vb",
+              "DocumentMoniker": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormCustomers.vb",
+              "RelativeDocumentMoniker": "Invoice_Generator.UIL\\FormCustomers.vb",
+              "ToolTip": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\FormCustomers.vb",
+              "RelativeToolTip": "Invoice_Generator.UIL\\FormCustomers.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T15:14:09.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

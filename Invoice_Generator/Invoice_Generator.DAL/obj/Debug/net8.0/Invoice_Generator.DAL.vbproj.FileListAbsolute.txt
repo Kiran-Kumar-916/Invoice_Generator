@@ -1,0 +1,11 @@
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.DAL\bin\Debug\net8.0\Invoice_Generator.DAL.deps.json
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.DAL\bin\Debug\net8.0\Invoice_Generator.DAL.dll
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.DAL\bin\Debug\net8.0\Invoice_Generator.DAL.pdb
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.DAL\obj\Debug\net8.0\Invoice_Generator.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.DAL\obj\Debug\net8.0\Invoice_Generator.DAL.AssemblyInfoInputs.cache
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.DAL\obj\Debug\net8.0\Invoice_Generator.DAL.AssemblyInfo.vb
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.DAL\obj\Debug\net8.0\Invoice_Generator.DAL.vbproj.CoreCompileInputs.cache
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.DAL\obj\Debug\net8.0\Invoice_Generator.DAL.dll
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.DAL\obj\Debug\net8.0\refint\Invoice_Generator.DAL.dll
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.DAL\obj\Debug\net8.0\Invoice_Generator.DAL.pdb
+C:\Kiran Kumar\CODE\Backups\THIS IS FINAL PROJECT WITH 3-tier Architecture\KIRAN KUMAR M - Project - Net 8.0\Invoice_Generator\Invoice_Generator.DAL\obj\Debug\net8.0\ref\Invoice_Generator.DAL.dll

@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj": {}
+  },
+  "projects": {
+    "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.BLL\\Invoice_Generator.BLL.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.BLL\\Invoice_Generator.BLL.vbproj",
+        "projectName": "Invoice_Generator.BLL",
+        "projectPath": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.BLL\\Invoice_Generator.BLL.vbproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.DAL\\Invoice_Generator.DAL.vbproj": {
+                "projectPath": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.DAL\\Invoice_Generator.DAL.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.DAL\\Invoice_Generator.DAL.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.DAL\\Invoice_Generator.DAL.vbproj",
+        "projectName": "Invoice_Generator.DAL",
+        "projectPath": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.DAL\\Invoice_Generator.DAL.vbproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj",
+        "projectName": "Invoice_Generator.UIL",
+        "projectPath": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\Invoice_Generator.UIL.vbproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.UIL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.BLL\\Invoice_Generator.BLL.vbproj": {
+                "projectPath": "C:\\Kiran Kumar\\CODE\\Backups\\THIS IS FINAL PROJECT WITH 3-tier Architecture\\KIRAN KUMAR M - Project - Net 8.0\\Invoice_Generator\\Invoice_Generator.BLL\\Invoice_Generator.BLL.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
